@@ -1,0 +1,4 @@
+name: Deathban
+version: '${project.version}'
+main: mc.deab.deathban.Deathban
+api-version: 1.19

@@ -1,0 +1,4 @@
+name: Deathban
+version: '1.0-SNAPSHOT'
+main: mc.deab.deathban.Deathban
+api-version: 1.19
